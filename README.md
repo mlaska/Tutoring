@@ -12,3 +12,5 @@ review Juypter Notebook tips and tricks
 
 ### Files Reviewed
 Exercise1.ipynb
+
+
